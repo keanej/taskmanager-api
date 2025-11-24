@@ -1,0 +1,15 @@
+
+------------------
+Activate the venv
+-------------------
+
+john@hp:~$ cd taskmanager-api
+john@hp:~/taskmanager-api$ source venv/bin/activate
+(venv) john@hp:~/taskmanager-api$ 
+
+---------------------
+ Deactivate the venv
+---------------------
+
+(venv) john@hp:~/taskmanager-api$ deactivate
+
