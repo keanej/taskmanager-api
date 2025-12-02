@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from app.database import Base, engine
+from app.database.database import Base, engine
 from .routers import users, tasks
 
 # Create DB tables
